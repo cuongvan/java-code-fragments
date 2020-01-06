@@ -1,2 +1,4 @@
 build/
 .gradle/
+/test_bytebuffer/nbproject/private/
+/misc/nbproject/private/
